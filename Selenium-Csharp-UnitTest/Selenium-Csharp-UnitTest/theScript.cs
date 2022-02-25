@@ -4,7 +4,7 @@ using System;
 namespace Selenium_Csharp_UnitTest
 {
     [TestClass]
-    public class UnitTest1
+    public class theScript
     {
         [TestMethod]
         public void TestMethod1()
